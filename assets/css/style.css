@@ -1785,7 +1785,7 @@ input {
   padding-left: 35px;
   list-style: none;
   font-weight: 600;
-  font-size: clamp(13px, 0.833vw, 16px);
+  font-size: 16px;
 }
 .jo-intro__list li:not(:last-child) {
   margin-bottom: 18px;
